@@ -1,0 +1,1 @@
+echo "After Doing commiting to github and jenkins actor works automatically."
